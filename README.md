@@ -16,7 +16,7 @@ I am a dedicated Frontend Web Developer focused on creating elegant and efficien
 - **Other Tools:** Figma, Digital Ocean, Google Cloud
 
 ## Education
-- **[2.50]:** [İzmir Demokrasi Üniversitesi], [2024]
+- [İzmir Demokrasi Üniversitesi], [2024]
 
 
 ## Professional Development
