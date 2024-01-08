@@ -9,11 +9,11 @@ I am a dedicated Frontend Web Developer focused on creating elegant and efficien
 
 ## Skills
 - **Languages:** JavaScript, TypeScript, C#, Python
-- **Web Technologies:** HTML5, CSS (Sass, TailwindCSS, Bootstrap)
+- **Web Technologies:** HTML5, CSS (Sass, TailwindCSS, Bootstrap, Emotion.js)
 - **JavaScript Libraries and Frameworks:** React, Vue.js, Redux
 - **Backend Technologies:** Node.js, GraphQL
 - **Version Control:** Git
-- **Other Tools:** Figma, Digital Ocean, Google Cloud
+- **Other Tools:** Hasura, Figma, Digital Ocean, Google Cloud
 
 ## Education
 - [İzmir Demokrasi Üniversitesi], [2024]
