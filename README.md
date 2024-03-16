@@ -9,4 +9,3 @@
 - **Web Technologies:** HTML5, CSS (Sass, TailwindCSS, Bootstrap, Emotion.js)
 - **JavaScript Libraries and Frameworks:** React, Vue.js
 - **Version Control:** Git
-- **Other Tools:** GRAPHQL, Figma, Google Cloud
