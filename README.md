@@ -5,6 +5,7 @@
 ✉️  Contact: [erenasiroglu1@gmail.com](mailto:erenasiroglu1@gmail.com)  
 
 <div>
-  <img src="https://github-readme-stats.vercel.app/api?username=erenasiroglu&theme=dark&show_icons=true" width="400px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=erenasiroglu" width="400px" />
+  <img src="https://github-readme-stats.vercel.app/api?username=erenasiroglu&theme=dark&show_icons=true" width="250px" height="250px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=erenasiroglu" width="250px" height="250px" />
 </div>
+
