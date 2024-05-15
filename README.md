@@ -9,5 +9,4 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=erenasiroglu" width="400px" height="300px" />
 </div>
 
-[![Eren's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=erenasiroglu)](https://github.com/erenasiroglu/github-readme-stats)
 
