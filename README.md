@@ -9,3 +9,5 @@
 - **Web Technologies:** HTML5, CSS (Sass, TailwindCSS, Bootstrap, Emotion.js)
 - **JavaScript Libraries and Frameworks:** React, Vue.js
 - **Version Control:** Git
+
+![Eren's GitHub stats](https://github-readme-stats.vercel.app/api?username=erenasiroglu&theme=dark&show_icons=true)
