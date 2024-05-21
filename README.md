@@ -1,4 +1,4 @@
-# Eren Nasıroglu - Web Developer
+# Eren Nasıroglu - Developer
 
 ## About Me
 🌍  Based in Izmir  
